@@ -1,0 +1,33 @@
+Conferences,Division,Team,Name,Wins,Losses,Ties,PointsFor,PointsAgainst,Touchdowns,DivisionWinds,DivisionLosses,DivisionTies,ConferenceWins,ConferencesLosses
+AFC,East,NE,New England Patriots,12,4,0,420,225,49,5,1,0,8,4
+AFC,East,BUF,Buffalo Bills,10,6,0,314,259,35,3,3,0,7,5
+AFC,East,NYJ,New York Jets,7,9,0,276,359,31,2,4,0,4,8
+AFC,East,MIA,Miami Dolphins,5,11,0,306,494,34,2,4,0,4,8
+AFC,North,BAL,Baltimore Ravens,14,2,0,531,282,64,5,1,0,10,2
+AFC,North,PIT,Pittsburgh Steelers,8,8,0,289,303,29,3,3,0,6,6
+AFC,North,CLE,Cleveland Browns,6,10,0,335,393,38,3,3,0,6,6
+AFC,North,CIN,Cincinnati Bengals,2,14,0,279,420,28,1,5,0,2,10
+AFC,South,HOU,Houston Texans,10,6,0,378,385,46,4,2,0,8,4
+AFC,South,TEN,Tennessee Titans,9,7,0,402,331,54,3,3,0,7,5
+AFC,South,IND,Indianapolis Colts,7,9,0,361,373,42,3,3,0,5,7
+AFC,South,JAX,Jacksonville Jaguars,6,10,0,300,397,29,2,4,0,6,6
+AFC,West,KC,Kansas City Chiefs,12,4,0,451,308,50,6,0,0,9,3
+AFC,West,DEN,Denver Broncos,7,9,0,282,316,28,3,3,0,6,6
+AFC,West,LV,Las Vegas Raiders,7,9,0,313,419,37,3,3,0,5,7
+AFC,West,LAC,Los Angeles Chargers,5,11,0,337,345,37,0,6,0,3,9
+NFC,East,PHI,Philadelphia Eagles,9,7,0,385,354,46,5,1,0,7,5
+NFC,East,DAL,Dallas Cowboys,8,8,0,434,321,49,5,1,0,7,5
+NFC,East,NYG,New York Giants,4,12,0,341,451,44,2,4,0,3,9
+NFC,East,WAS,Washington Redskins,3,13,0,266,435,28,0,6,0,2,10
+NFC,North,GB,Green Bay Packers,13,3,0,376,313,44,6,0,0,10,2
+NFC,North,MIN,Minnesota Vikings,10,6,0,407,303,47,2,4,0,7,5
+NFC,North,CHI,Chicago Bears,8,8,0,280,298,30,4,2,0,7,5
+NFC,North,DET,Detroit Lions,3,12,1,341,423,38,0,6,0,2,9
+NFC,South,NO,New Orleans Saints,13,3,0,458,341,52,5,1,0,9,3
+NFC,South,TB,Tampa Bay Buccaneers,7,9,0,458,449,54,2,4,0,5,7
+NFC,South,ATL,Atlanta Falcons,7,9,0,381,399,42,4,2,0,6,6
+NFC,South,CAR,Carolina Panthers,5,11,0,340,470,38,1,5,0,2,10
+NFC,West,SF,San Francisco 49ers,13,3,0,479,310,56,5,1,0,10,2
+NFC,West,SEA,Seattle Seahawks,11,5,0,405,398,49,3,3,0,8,4
+NFC,West,LAR,Los Angeles Rams,9,7,0,394,364,46,3,3,0,7,5
+NFC,West,ARI,Arizona Cardinals,5,10,1,361,442,38,1,5,0,3,8
